@@ -31,7 +31,8 @@ header {
 .HomeSec {
   height: 50rem;
   position: relative;
-  margin-bottom: 50rem;
+  margin-bottom: 54rem;
+  margin-top: 10rem;
   /*   margin-top: 10rem; */
 }
 
@@ -282,7 +283,7 @@ hr {
 .artLeft {
   display: inline-block;
   position: relative;
-  top: 75%;
+  top: 11rem;
   left: 24%;
 }
 /* ========image article droite============= */
@@ -312,6 +313,7 @@ hr {
   width: 70%;
   bottom: 12rem;
   left: 31%;
+  top: -13rem;
 }
 .FonctionalCard {
   width: 25rem;
@@ -1940,17 +1942,21 @@ figure.snip1208.hover button {
   font-size: 1.5rem;
 }
 .RoundPalm img {
-  margin-left: 35%;
 }
+.palmcircleTouch {
+  margin-left: 35%;
+  margin-top: -9rem;
+}
+
 .RoundText1 {
   position: absolute;
-  top: 43rem;
-  left: 18%;
+  top: 66rem;
+  left: 19%;
 }
 .RoundTex2 {
   position: absolute;
-  top: 27rem;
-  right: 19%;
+  top: 53rem;
+  right: 20%;
 }
 .RoundTex2 h4 {
   text-align: left;
@@ -1961,5 +1967,15 @@ figure.snip1208.hover button {
 
 .RoundTex3 {
   position: absolute;
-  left: 18%;
+  left: 19%;
+  top: 43%;
+}
+#sideDif {
+  left: 22%;
+  top: 15rem;
+}
+#diff {
+}
+#heigtDiff {
+  bottom: 28rem;
 }
