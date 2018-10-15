@@ -828,7 +828,7 @@ tr:first-child th:last-child {
 .Benefit {
   position: relative;
   margin-top: 10rem;
-  margin-bottom: -3px;
+  margin-bottom: 1rem;
 }
 .Benefit h3 {
   margin-top: -4.5rem;
@@ -1887,7 +1887,7 @@ figure.snip1208.hover button {
 }
 /* =============================partie video==================== */
 .Homefour {
-  margin-bottom: 10rem;
+  margin-bottom: 55rem;
 }
 
 /* =================================modification=========================================== */
@@ -1984,4 +1984,8 @@ figure.snip1208.hover button {
   border-left: solid 1px black;
   margin-left: 9%;
   padding-left: 9%;
+}
+.niceBorder {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
 }
