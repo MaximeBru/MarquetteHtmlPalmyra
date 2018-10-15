@@ -31,7 +31,7 @@ header {
 .HomeSec {
   height: 50rem;
   position: relative;
-  margin-bottom: 37rem;
+  margin-bottom: 50rem;
   /*   margin-top: 10rem; */
 }
 
@@ -257,7 +257,7 @@ hr {
   position: relative;
 }
 .red {
-  color: #d83431;
+  color: #eb456e;
 }
 .triangle {
   width: 0;
@@ -274,10 +274,10 @@ hr {
 }
 .DescIntro {
   position: absolute;
-  top: 27%;
-  left: 52%;
-  width: 30%;
-  font-size: 1.5rem;
+  top: 26%;
+  left: 45%;
+  width: 36%;
+  font-size: 2.5rem;
 }
 .artLeft {
   display: inline-block;
@@ -310,6 +310,8 @@ hr {
 /* =========================Functionality card========================== */
 #Fonctionality {
   width: 70%;
+  bottom: 12rem;
+  left: 31%;
 }
 .FonctionalCard {
   width: 25rem;
@@ -410,17 +412,17 @@ hr {
 .SecPerc {
   position: absolute;
   top: 42%;
-  left: 25.5%;
+  left: 26.5%;
 }
 .thirdPerc {
   position: absolute;
   top: 63%;
-  left: 30.5%;
+  left: 32.5%;
 }
 .LastPerc {
   position: absolute;
   top: 84%;
-  left: 35.5%;
+  left: 38.5%;
 }
 .toLeft {
   right: 65%;
@@ -530,7 +532,7 @@ hr {
   left: 260px;
 }
 .igData1 {
-  background: #d83431;
+  background: #eb456e;
   height: 0px;
   left: 10px;
   -webkit-animation: showBar1 1.2s 0.1s forwards;
@@ -539,7 +541,7 @@ hr {
 }
 
 .igData2 {
-  background: #d83431;
+  background: #eb456e;
   height: 0px;
   left: 60px;
   -webkit-animation: showBar2 1.2s 0.2s forwards;
@@ -548,7 +550,7 @@ hr {
 }
 
 .igData3 {
-  background: #d83431;
+  background: #eb456e;
   height: 0px;
   left: 110px;
   -webkit-animation: showBar3 1.2s 0.3s forwards;
@@ -557,7 +559,7 @@ hr {
 }
 
 .igData4 {
-  background: #d83431;
+  background: #eb456e;
   height: 0px;
   left: 160px;
   -webkit-animation: showBar4 1.2s 0.4s forwards;
@@ -566,7 +568,7 @@ hr {
 }
 
 .igData5 {
-  background: #d83431;
+  background: #eb456e;
   height: 0px;
   left: 210px;
   -webkit-animation: showBar5 1.2s 0.5s forwards;
@@ -575,7 +577,7 @@ hr {
 }
 
 .igData6 {
-  background: #d83431;
+  background: #eb456e;
   height: 0px;
   left: 260px;
   -webkit-animation: showBar6 1.2s 0.6s forwards;
@@ -654,7 +656,7 @@ hr {
 }
 
 .Backred {
-  background: #d83431;
+  background: #eb456e;
 }
 @-webkit-keyframes showBar1 {
   0% {
@@ -944,7 +946,7 @@ tr:first-child th:last-child {
   position: absolute;
   right: 0;
   top: -1px;
-  color: #d83431;
+  color: #eb456e;
   display: block;
   font-size: 15px;
 }
@@ -1012,7 +1014,7 @@ tr:first-child th:last-child {
   position: absolute;
   right: 0;
   top: -1px;
-  color: #d83431;
+  color: #eb456e;
   display: block;
   font-size: 15px;
 }
@@ -1746,7 +1748,7 @@ figure.snip1208 .date,
 figure.snip1208 i {
   background-color: white;
   top: 25px;
-  color: #d83431;
+  color: #eb456e;
   left: 25px;
   min-height: 60px;
   min-width: 60px;
@@ -1762,7 +1764,7 @@ figure.snip1208 .date {
 }
 figure.snip1208 .date span {
   display: block;
-  line-height: 30px;
+  line-height: 31px;
 }
 figure.snip1208 .date .month {
   font-size: 16px;
@@ -1798,11 +1800,11 @@ figure.snip1208 button {
   padding: 10px 20px;
   background-color: white;
   font-weight: 800;
-  color: #d83431;
+  color: #eb456e;
   letter-spacing: 2px;
   text-transform: uppercase;
   font-size: 0.8em;
-  border: solid 2px #d83431;
+  border: solid 2px #eb456e;
 }
 figure.snip1208 a {
   left: 0;
@@ -1833,7 +1835,7 @@ figure.snip1208.hover i {
 }
 figure.snip1208:hover button,
 figure.snip1208.hover button {
-  background-color: #d83431;
+  background-color: #eb456e;
   color: white;
 }
 
@@ -1846,7 +1848,7 @@ figure.snip1208.hover button {
   text-decoration: none;
 }
 .arrow-container a:hover {
-  color: #d83431;
+  color: #eb456e;
 }
 .arrow-container p {
   position: relative;
