@@ -990,7 +990,7 @@ tr:first-child th:last-child {
   top: 100px;
   left: 0;
   z-index: 20;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.7);
   visibility: hidden;
   opacity: 0;
   transition: all 0.5s ease;
