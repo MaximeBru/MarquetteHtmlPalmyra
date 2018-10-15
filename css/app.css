@@ -1979,3 +1979,9 @@ figure.snip1208.hover button {
 #heigtDiff {
   bottom: 28rem;
 }
+.videoPart {
+  display: inline-block;
+  border-left: solid 1px black;
+  margin-left: 9%;
+  padding-left: 9%;
+}
