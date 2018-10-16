@@ -1710,6 +1710,7 @@ tr:first-child th:last-child {
   text-align: center;
   font-size: 2.5rem;
   margin-bottom: 2rem;
+  margin-left: -9rem;
 }
 figure.snip1208 {
   font-family: "Raleway", Arial, sans-serif;
