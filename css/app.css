@@ -1426,6 +1426,7 @@ tr:first-child th:last-child {
 .imgNavTitle {
 }
 /* end of navigation part css */
+
 /* ================footer css ================== */
 .footer {
   width: 100%;
@@ -1988,4 +1989,30 @@ figure.snip1208.hover button {
 .niceBorder {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
+}
+
+/* ajustement des logos */
+#card {
+  width: 8rem;
+  margin-right: -2rem;
+}
+#bank {
+  width: 6rem;
+}
+#contract {
+  width: 12rem;
+  margin-right: -4rem;
+}
+#cloud {
+  width: 7rem;
+  margin-top: 0.5rem;
+  margin-right: -1rem;
+}
+#chip {
+  width: 6rem;
+  margin-right: -1rem;
+}
+#licorne {
+  width: 9rem;
+  margin-right: -3rem;
 }
